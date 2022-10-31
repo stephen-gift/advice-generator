@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot](../../GitHub/advice-generator/src/Assets/images/Screenshot.png)
+![Screenshot](./src/Assets/images/Screenshot.png)
 
 ### Links
 
