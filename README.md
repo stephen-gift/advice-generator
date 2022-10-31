@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://stephen-gift-advice-generator.vercel.app/)
+<!-- - Solution URL: [Add solution URL here](https://your-solution-url.com) -->
+- Live Site URL: [live URL](https://stephen-gift-advice-generator.vercel.app/)
 
 ## My process
 
